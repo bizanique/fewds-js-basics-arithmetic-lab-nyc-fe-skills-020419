@@ -1,3 +1,5 @@
+let newID = 1000000000 + oldID;
+
 /*
 Variables defined in the test suite:
 - oldID
